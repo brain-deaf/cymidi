@@ -11,7 +11,6 @@ to compile the extension:
 python setup.py build_ext -i
 
 dependencies:
-
 rtmidi
 http://www.music.mcgill.ca/~gary/rtmidi/
 
